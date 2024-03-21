@@ -1,4 +1,6 @@
-## Hi I'm Spencer 
+## Hi I'm Spencer
+I recently finished a one year Python Backend Development course.
+I'm open to exciting new opportunities in Backend Development and Data Science.
 
 ## Tech Stack
 
